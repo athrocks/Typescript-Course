@@ -1,0 +1,3 @@
+Run using nodeJs 
+
+node .\01_class.js

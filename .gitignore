@@ -1,0 +1,5 @@
+# Ignore all JavaScript files
+*.js
+
+# Ignore the "Typescript Notes" folder
+Typescript Notes/
