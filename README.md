@@ -41,7 +41,7 @@ This keeps watching for changes and recompiles automatically.
 ## Running the Compiled JavaScript File
 Once compiled, run the JavaScript output using Node.js:
 ```sh
-node dist/index.js
+node fileName.js
 ```
 (Modify the path based on your `tsconfig.json` output directory.)
 
